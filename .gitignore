@@ -1,0 +1,32 @@
+# Node
+node_modules/
+**/node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+.env.*
+
+# OS
+.DS_Store
+desktop.ini
+*.lnk
+*.zip
+AI_FINAL.zip
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Logs
+logs
+*.log
+
+# Misc
+*.sqlite3
+*.db
+
+# model / pickle files
+*.pkl
